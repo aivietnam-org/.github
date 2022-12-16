@@ -1,16 +1,9 @@
-## Xin chào 👋
+# Xin chào 👋
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/aivietnam.edu.vn)
 
-
-<!--
-
-🙋‍♀️ A short introduction - what is your organization all about?
-
-🌈 Contribution guidelines - how can the community get involved?
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
-🍿 Fun facts - what does your team eat for breakfast?
+## Giới thiệu 🌈
+Nơi chia sẻ mã nguồn của các đội thi các cuộc thi về AI thuộc team AI VIETNAM.
 
 
--->
+## Hướng dẫn 📝
+Để truy cập vào các mã nguồn, các bạn chọn nút `Reposistories` trên thanh Menu. Khi đó, một danh sách các reposistory sẽ xuất hiện và các bạn nhập tên mã nguồn cần tìm vào khung tìm kiếm.
